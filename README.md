@@ -10,8 +10,9 @@
 - Images
 - Links
 - Task List
-
-  
+- Blockquotes
+- Strikethrough
+ 
   ## *Headings*
   
   # Heading 1
@@ -62,3 +63,10 @@
  - [] (www.google.com)
  - [x] (https://www.google.com)
  
+ ## *Blockquotes*
+ 
+ > In blockquotes we can define quotations.
+
+## *Strikethrough*
+
+If we want to strike something in md,we can use ~~Strikethrough~~ .
