@@ -6,7 +6,8 @@ Code blocks in Markdown are created using three backticks (```) before and after
 
 1. Inline code
 
-2. Multible Line code
+2. Code Blocks
+
 ***
 - *Inline code*
 ***
@@ -16,7 +17,7 @@ variable in maths `x=10`
 
 **we can also use single backtick**
 ***
-- *Multible line code*
+- *Code Block*
 ***
 **For Example**
 
